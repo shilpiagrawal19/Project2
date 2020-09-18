@@ -1,1 +1,1 @@
-git is completed
+git is completed with branches, clone,commands and stash 
