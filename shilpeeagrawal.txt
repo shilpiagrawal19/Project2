@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 git is completed with branches, clone,commands and stash 
+=======
+git is completed
+with stash
+>>>>>>> Stashed changes
